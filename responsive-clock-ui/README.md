@@ -17,7 +17,7 @@
 ## The project 🖼️
 
 <p align="center">
-<!--   <img src="https://imgur.com/kKlBKP6.png" alt="Banner do projeto"/> -->
+  <img src="https://i.imgur.com/twphWiF.png" alt="Banner do projeto"/>
 </p>
 
 ---
