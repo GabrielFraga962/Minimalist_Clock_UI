@@ -1,8 +1,8 @@
-# Responsive Clock Ui
-## [Watch it on youtube](https://youtu.be/H4-lcB3dr-Q)
-### Responsive Clock Ui
+# Responsive Clock Ui 🕐
 
 ---
+
+## Project :star2:
 
 - Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
 - Contains an elegant Neumorphism watch.
@@ -14,6 +14,17 @@
 
 ---
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+## The project 🖼️
 
-![Clock ui](/preview.png)
+<p align="center">
+<!--   <img src="https://imgur.com/kKlBKP6.png" alt="Banner do projeto"/> -->
+</p>
+
+---
+
+## License :memo:
+
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/GabrielFraga962/Website_Design_Using_HTML_CSS_JavaScript/blob/main/LICENSE)**;
+- Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
