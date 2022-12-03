@@ -28,3 +28,4 @@
 
 - **[MIT license](https://github.com/GabrielFraga962/Minimalist_Clock_UI/blob/main/LICENSE)**;
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
+
